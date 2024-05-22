@@ -77,3 +77,5 @@ logging.level.org.hibernate.resource.transaction=DEBUG
 이루어지게 된다.
 이 방법은 내부 트랜잭션에 문제가 발생해서 롤백해도, 외부 트랜잭션에는 영향을 주지 않는다. 반대로 외부 트랜잭션에서 문제가 발생해도 내부
 트랜잭션에 영향을 주지 않는다. 이 방법을 사용하는 구체적인 예는 이후에 알아보고 지금은 작동 원리를 이해해보자.
+
+<img width="838" alt="Screenshot 2024-05-22 at 12 00 28 PM" src="https://github.com/h0ngg0m/spring-db-2/assets/125632083/b69394da-244b-4450-8364-91fde9f8f9d3">
