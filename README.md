@@ -69,3 +69,4 @@ logging.level.org.hibernate.resource.transaction=DEBUG
 - 런타임 예외: 복구 불가능한 예외
 
 ## 트랜잭션 전파
+<img width="797" alt="Screenshot 2024-05-22 at 11 11 56 AM" src="https://github.com/h0ngg0m/spring-db-2/assets/125632083/e2918ddc-9cfe-4e3a-b566-f60435dd139d">
